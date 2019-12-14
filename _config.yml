@@ -21,7 +21,7 @@
 title: Code Club Беларусь
 email: hello@codeclub.by
 description: >- # this means to ignore newlines until "baseurl:"
-  Сайт посвящен Code Club (международной сети волонтерских клубов программирования для детей 9-13 лет) и, в частности, его региональным представительством в Республике Беларусь
+  Сайт посвящен Code Club (международной сети волонтерских клубов программирования для детей 9-13 лет) и, в частности, его региональному представительству в Республике Беларусь
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
