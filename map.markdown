@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Карта клубов
+title: Карта клубов Code Club Беларусь
 permalink: /club-map/
 ---
 
