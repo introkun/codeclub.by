@@ -4,7 +4,7 @@ title: Контакты
 permalink: /contacts/
 ---
 
-<form class="contact-form" id="contact-form" name="contact-form" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScG0P4Kz0J_EHWutKpk0TO7oPhrampG2RYVYCURtB5zp6BqbA/formResponse" method="post" target="hidden_iframe">
+<form class="contact-form" id="contact-form" name="contact-form" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScG0P4Kz0J_EHWutKpk0TO7oPhrampG2RYVYCURtB5zp6BqbA/formResponse" method="post">
       <label>Как вас зовут?</label>
       <input type="text" placeholder="Введите ваше ФИО" name="entry.670450142" required>
 
