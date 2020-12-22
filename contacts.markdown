@@ -7,7 +7,7 @@ permalink: /contacts/
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
 onload="if(submitted) {window.location='thankyou';}"></iframe>
-<form class="contact-form" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScG0P4Kz0J_EHWutKpk0TO7oPhrampG2RYVYCURtB5zp6BqbA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+<form class="contact-form" id="contact-form" name="contact-form" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScG0P4Kz0J_EHWutKpk0TO7oPhrampG2RYVYCURtB5zp6BqbA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
       <label>Как вас зовут?</label>
       <input type="text" placeholder="Введите ваше ФИО" name="entry.670450142" required>
 
