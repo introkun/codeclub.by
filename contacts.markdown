@@ -16,7 +16,14 @@ onload="if(submitted) {window.location='thankyou';}"></iframe>
 
       <label>Сообщение</label>
       <textarea rows="5" placeholder="Введите ваше сообщение" name="entry.945783835" required></textarea>
-      <div class="g-recaptcha" data-sitekey="6Ler3xAaAAAAAGU2CJs16tbjqPjuFKl84VHAn0VI"></div>
-      <script src='https://www.google.com/recaptcha/api.js'></script>
-      <input type="submit" value="Отправить">
+      <script src="https://www.google.com/recaptcha/api.js"></script>
+      <script>
+            function onSubmit(token) {
+                  document.getElementById("contact-form").submit();
+            }
+      </script>
+      <button class="g-recaptcha"
+        data-sitekey="6Ler3xAaAAAAAGU2CJs16tbjqPjuFKl84VHAn0VI"
+        data-callback='onSubmit'
+        data-action='submit'>Отправить</button>
 </form>
