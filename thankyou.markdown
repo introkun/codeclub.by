@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /contacts/thankyou/
+permalink: /napisat_v_soobshestvo/thankyou/
 ---
 
 Спасибо за ваше сообщение!
